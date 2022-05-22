@@ -11,7 +11,6 @@ int main()
         int userAge;                                  // Variable declaration of type int
         double userSalary;                            // Variable declaration of type double
         
-        cout << "User Input Examples:" << endl;       // Writes text to the console and goes to the next line
         cout << "What is your name: ";                // Writes text to the console
         cin >> userName;                              // Console awaits user input
 
@@ -26,7 +25,5 @@ int main()
         cout << "Your name is: " << userName << endl; // Writes text to the console and value of a variable and goes to the next line 
         cout << "Your age is: " << userAge << endl;   // Writes text to the console and value of a variable and goes to the next line
         cout << "Your salary is: " << userSalary << endl;     // Writes text to the console and value of a variable
-
-        system("pause");                                    // Reads user input
         return 0;
     }
