@@ -1,13 +1,11 @@
-// Robert Calero
-
 #include <iostream>
 
 using namespace std;
 
 int main()
-    {
-        cout << "Hello world";
+{
+    cout << "Hello world \n";
         
-        system("pause");
-        return 0;
-    }
+    system("pause");
+    return 0;
+}
