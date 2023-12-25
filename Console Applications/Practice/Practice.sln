@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array Ranges", "Array Range
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Feet To Miles", "Feet To Miles\Feet To Miles.vcxproj", "{2AA1F955-016A-4144-9C70-8A1528BDB083}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Print", "Print\Print.vcxproj", "{13AD2D40-18CC-41A7-9E89-6D04BFA904AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{2AA1F955-016A-4144-9C70-8A1528BDB083}.Release|x64.Build.0 = Release|x64
 		{2AA1F955-016A-4144-9C70-8A1528BDB083}.Release|x86.ActiveCfg = Release|Win32
 		{2AA1F955-016A-4144-9C70-8A1528BDB083}.Release|x86.Build.0 = Release|Win32
+		{13AD2D40-18CC-41A7-9E89-6D04BFA904AB}.Debug|x64.ActiveCfg = Debug|x64
+		{13AD2D40-18CC-41A7-9E89-6D04BFA904AB}.Debug|x64.Build.0 = Debug|x64
+		{13AD2D40-18CC-41A7-9E89-6D04BFA904AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{13AD2D40-18CC-41A7-9E89-6D04BFA904AB}.Debug|x86.Build.0 = Debug|Win32
+		{13AD2D40-18CC-41A7-9E89-6D04BFA904AB}.Release|x64.ActiveCfg = Release|x64
+		{13AD2D40-18CC-41A7-9E89-6D04BFA904AB}.Release|x64.Build.0 = Release|x64
+		{13AD2D40-18CC-41A7-9E89-6D04BFA904AB}.Release|x86.ActiveCfg = Release|Win32
+		{13AD2D40-18CC-41A7-9E89-6D04BFA904AB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
